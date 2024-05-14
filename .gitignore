@@ -1,0 +1,7 @@
+*.env
+venv
+dist
+build
+*.spec
+data.xlsx
+.DS_Store
